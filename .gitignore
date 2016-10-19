@@ -28,6 +28,13 @@ $RECYCLE.BIN/
 .AppleDouble
 .LSOverride
 
+Library
+Temp
+*.pidb
+*.unityproj
+*.sln
+*.userprefs
+
 # Thumbnails
 ._*
 
