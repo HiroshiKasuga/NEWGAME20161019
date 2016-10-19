@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 0f6d6c2cbff074807b60090b6b9cff63
+timeCreated: 1471500204
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Bomb: {fileID: 194412, guid: 7ef488767ed9f41b3b272ea2939d2a57, type: 2}
+  - Jump: {fileID: 102858, guid: db98b8b4398f142ffbc433650f65cb25, type: 2}
+  - SpeedUp: {fileID: 155668, guid: f239cf16a614744a7b7d33f5202d770d, type: 2}
+  - Heal: {fileID: 124330, guid: 5739b85d73db14cfba74edc6c894c6cd, type: 2}
+  - Bakudan: {fileID: 132650, guid: 3ae64932b1c624b55894964f9636475e, type: 2}
+  - Flash: {fileID: 115936, guid: 93e5dec33aca04fdc8726e34198d4d1a, type: 2}
+  - DoubleDamage: {fileID: 122110, guid: 219e8e83c65984ec692171502f2c8e2f, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
